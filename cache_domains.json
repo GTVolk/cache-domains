@@ -15,6 +15,11 @@
 			"description": "CDN for Call of Duty",
 			"domain_files": ["cod.txt"]
 		},
+        {
+			"name": "custom",
+			"description": "Custom domains list",
+			"domain_files": ["custom.txt"]
+		},
 		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
