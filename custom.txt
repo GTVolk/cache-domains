@@ -1,1 +1,8 @@
 deb.debian.org
+ftp.debian.org
+ftp.ru.debian.org
+debian.map.fastlydns.net
+security.debian.org
+mirror.docker.ru
+mirror.yandex.ru
+download.proxmox.com
